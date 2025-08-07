@@ -25,7 +25,7 @@ oak_microbiome_supplementary/
 ## 🔬 Contents
 
 ### `data/`
-- Subset data tables derived from the full HTS dataset, annotated fungal tables (FUNGuild), soil chemistry, diversity indices, and trophic group assignments.
+- Subset data tables derived from the full HTAS dataset, annotated fungal tables (FUNGuild), soil chemistry, diversity indices, and trophic group assignments.
 - All files are tab-delimited `.txt` and can be imported directly into R, Python, or Cytoscape.
 
 ### `scripts/`
