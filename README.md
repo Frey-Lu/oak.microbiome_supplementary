@@ -37,10 +37,10 @@ oak_microbiome_supplementary/
 
 ## 🧪 Methods Summary
 
-- Fungal and bacterial data were normalized using CLR transformation.
-- Spearman correlation (|ρ| > 0.6, p < 0.05) was used for network inference.
-- Functional annotations were derived from FUNGuild and manually curated.
-- Soil chemical properties were included as environmental covariates in ordination and correlation analyses.
+- Microbial abundances were transformed using either TSS normalization (for diversity analyses) or CLR transformation (for correlation and network inference).
+- Spearman correlation (|ρ| > 0.6, p < 0.05) was used to infer microbial co-occurrence networks.
+- Functional annotations were obtained using FUNGuild and manually curated.
+- Soil chemical properties were integrated as explanatory variables in ordination and correlation analyses.
 
 ## 📎 Citation
 
