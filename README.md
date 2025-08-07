@@ -1,6 +1,6 @@
 # Oak Microbiome Supplementary Material
 
-This repository contains supplementary data and analysis scripts associated with the manuscript *"Beyond detection: Unveiling microbial dynamics in oak seedlings using cultivation and HTS."*
+This repository contains supplementary data and analysis scripts associated with the manuscript *"Beyond detection: Unveiling microbial dynamics in oak seedlings using isolation and HTAS."*
 
 ## 📂 Repository Structure
 
