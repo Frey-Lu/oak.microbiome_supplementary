@@ -46,7 +46,7 @@ oak_microbiome_supplementary/
 
 If you use this repository or data in your work, please cite:
 
-> Frejlichová, L., et al. (2025). *Beyond detection: Unveiling microbial dynamics in oak seedlings using cultivation and HTAS*. [Manuscript in review]
+> Frejlichová, L., et al. (2025). *Beyond detection: Unveiling microbial dynamics in oak seedlings using isolation and HTAS*. [Manuscript in review]
 
 ## 📝 License
 
